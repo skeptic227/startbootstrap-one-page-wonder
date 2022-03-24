@@ -310,7 +310,9 @@ table {
 caption {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  color: #6c757d;
+  background: -webkit-linear-gradient(rgb(157, 185, 171), rgb(96, 255, 229));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   text-align: left;
 }
 

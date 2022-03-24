@@ -7769,7 +7769,7 @@ textarea.form-control-lg {
 }
 
 .text-body {
-  --bs-body-color: rgb(0, 0, 0) !important;
+  color: rgb(0, 0, 0) !important;
   background-image: linear-gradient(225deg, #28d8ff, #032eff);
   background-clip: border-box;
   box-decoration-break: clone;
